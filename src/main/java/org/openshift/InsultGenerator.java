@@ -4,7 +4,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class InsultGenerator {
+public class XXXInsultGenerator {
 	public String generateInsult() {
 		String vowels = "AEIOU";
 		String article = "an";
